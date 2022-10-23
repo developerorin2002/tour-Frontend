@@ -1,0 +1,16 @@
+.login-forms{
+    background-color: #fff;
+    border-radius: 10px;
+
+}
+.border-input{
+    border: 3px solid #eaeaea;
+}
+.fb{
+    height: 30px ;
+    width: 30px;
+}
+.fb-border{
+    border: 1px solid #c2c0c0b7;
+    border-radius: 30px;
+}

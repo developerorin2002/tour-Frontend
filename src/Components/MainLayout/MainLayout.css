@@ -1,0 +1,8 @@
+.main-layout{
+    background-image: url('../Assets//images/Rectangle1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    vertical-align: middle;
+    height: 100vh;
+}
